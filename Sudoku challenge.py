@@ -1,7 +1,6 @@
 import random,numpy
 from math import sqrt
 
-#Game Creators: Atharva Charde,Yash Dharmale and Rutika Kale
 
 class GetSet_:
 	
