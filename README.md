@@ -1,2 +1,3 @@
 # Python-Projects
-Simple python projects for beginners
+These are the simple python projects for beginners
+Sudoku game is the console based game , made from core programming.
