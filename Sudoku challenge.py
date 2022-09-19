@@ -197,5 +197,5 @@ while(c>=1):
 		
 
 print('\n      Thank you !! Hope you enjoyed it :)')
-print('\nGame Creators: Atharva Charde,Yash Dharmale and Rutika Kale')
+print('\nGame Creators: Atharva Charde')
 
